@@ -1,4 +1,4 @@
-namespace FoodWebsite.WebApp
+namespace Food.WebApp
 {
     public class Program
     {
